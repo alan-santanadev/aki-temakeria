@@ -140,7 +140,7 @@ if ("IntersectionObserver" in window) {
     });
 
 }
-
+console.log("Elementos encontrados:", revealElements.length);
 
 /* ================= CATEGORIAS DO CARDÁPIO ================= */
 
